@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{52E0E6F7-71AA-4463-B5E0-B3A50DB3E9E5}</ProjectGuid>
+    <ProjectGuid>{CE1295B0-69FD-4744-97A3-606CEB2F889E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Prueba_Clase_XSDtoClass</RootNamespace>
-    <AssemblyName>Prueba_Clase_XSDtoClass</AssemblyName>
+    <RootNamespace>XSDtoClass</RootNamespace>
+    <AssemblyName>XSDtoClass</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

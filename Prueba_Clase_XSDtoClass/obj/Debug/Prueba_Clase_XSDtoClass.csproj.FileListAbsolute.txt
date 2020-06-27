@@ -1,7 +1,0 @@
-C:\Users\cris_\source\repos\Prueba_Clase_XSDtoClass\Prueba_Clase_XSDtoClass\bin\Debug\Prueba_Clase_XSDtoClass.exe.config
-C:\Users\cris_\source\repos\Prueba_Clase_XSDtoClass\Prueba_Clase_XSDtoClass\bin\Debug\Prueba_Clase_XSDtoClass.exe
-C:\Users\cris_\source\repos\Prueba_Clase_XSDtoClass\Prueba_Clase_XSDtoClass\bin\Debug\Prueba_Clase_XSDtoClass.pdb
-C:\Users\cris_\source\repos\Prueba_Clase_XSDtoClass\Prueba_Clase_XSDtoClass\obj\Debug\Prueba_Clase_XSDtoClass.csprojAssemblyReference.cache
-C:\Users\cris_\source\repos\Prueba_Clase_XSDtoClass\Prueba_Clase_XSDtoClass\obj\Debug\Prueba_Clase_XSDtoClass.csproj.CoreCompileInputs.cache
-C:\Users\cris_\source\repos\Prueba_Clase_XSDtoClass\Prueba_Clase_XSDtoClass\obj\Debug\Prueba_Clase_XSDtoClass.exe
-C:\Users\cris_\source\repos\Prueba_Clase_XSDtoClass\Prueba_Clase_XSDtoClass\obj\Debug\Prueba_Clase_XSDtoClass.pdb
